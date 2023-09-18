@@ -1,0 +1,735 @@
+img {
+    width: 100%;
+}
+
+
+
+
+/* nav css start */
+
+
+.navbar {
+    padding: 1rem !important;
+}
+
+.nav-item {
+    text-transform: uppercase;
+    font-size: 16px;
+    font-weight: 600;
+    color: black;
+}
+
+.nav-link:hover {
+    color: brown;
+}
+
+.btn {
+    text-transform: uppercase;
+}
+
+.phn-no {
+    background: hsla(0, 0%, 100%, 0.523);
+    padding-top: 10px;
+    color: #171515;
+    border-radius: 10px;
+    transition: 0.5s;
+}
+
+.phn-no:hover {
+    color: brown;
+}
+
+.badge {
+    border-radius: 16px;
+    padding: 4px;
+    text-transform: uppercase;
+}
+
+
+/* nav css end */
+
+
+/* baner css start */
+
+#hero {
+    margin-top: 2rem;
+}
+
+.sub-head {
+    margin: 100px auto;
+}
+
+.f-head {
+    padding: 0.5rem;
+    font-size: 25px;
+    font-weight: 200;
+    font-style: italic;
+}
+
+.s-head {
+    padding: 0.5rem;
+    font-size: 55px;
+}
+
+.para {
+    padding: o.5rem;
+    font-weight: 500;
+    font-size: 16px;
+}
+
+.b-icon {
+    padding: 0.5rem;
+    font-weight: 500;
+    font-size: 40px;
+}
+
+.sing-up {
+    margin: 70px auto;
+    background: #ffffffad;
+    border-radius: 10px;
+    padding-top: 0.5rem;
+    padding-bottom: 0.5rem;
+}
+
+
+/* baner css end */
+
+
+/* partner css start */
+
+
+.partner {
+    margin-top: 3rem;
+    margin-bottom: 3rem;
+}
+
+.p-head {
+    font-weight: 600;
+    font-size: 25px;
+    font-style: italic;
+}
+
+.p-logo {
+    margin-top: 3rem;
+    padding: 1rem auto;
+    background: #9a98988f;
+    border-radius: 10px;
+}
+
+.ptn-logo {
+    padding: 1rem;
+
+}
+
+
+/* partner css end */
+
+
+/* review css start */
+
+
+.review {
+    background: rgba(165, 42, 42, 0.879);
+    margin-top: 5rem;
+    padding: 6rem;
+}
+
+.f-r-head {
+    color: #fff;
+    text-transform: uppercase;
+    font-style: italic;
+    letter-spacing: 3px;
+    padding-bottom: 1rem;
+    margin-left: 2rem;
+}
+
+.s-r-head {
+    color: #ffffffc0;
+    font-weight: bold;
+    padding-bottom: 1rem;
+    margin-left: 2rem;
+}
+
+.our-happy {
+    font-size: 3rem;
+}
+
+.r-coment {
+    background: #fff;
+    padding: 2rem 2rem;
+    margin-top: 2rem;
+    border-radius: 10px;
+}
+
+.r-para {
+    color: #3d3c3ccf;
+}
+
+.customer-img {
+    border-radius: 50%;
+    height: 80px;
+    width: 80px;
+}
+
+.c-na-ic {
+    padding-left: 2rem;
+    padding-top: 0.5rem;
+}
+
+.c-name {
+    text-transform: uppercase;
+}
+
+.r-icon {
+    color: goldenrod;
+}
+
+
+/* review css end */
+
+
+/* service css start */
+
+.service {
+    margin-top: 5rem;
+    margin-bottom: 3rem;
+}
+
+.f-s-head {
+    padding-top: 2rem;
+    padding-bottom: 1rem;
+    letter-spacing: 5px;
+    font-size: 30px;
+    text-transform: uppercase;
+    font-style: italic;
+    font-weight: 100;
+    color: #454545e0;
+}
+
+.s-s-head {
+    font-size: 60px;
+    padding-bottom: 2rem;
+}
+
+.service-i {
+    background-origin: padding-box;
+
+}
+
+.repair {
+    text-align: center;
+    padding-top: 3.5rem;
+    padding-bottom: 3.5rem;
+    padding-left: 1rem;
+    padding-right: 1rem;
+    margin-left: 10px;
+    border: solid 1px #dc0e0ecf;
+    width: 24%;
+}
+
+.re-icon {
+    font-size: 5rem;
+    color: brown;
+}
+
+.replace-n {
+    text-transform: uppercase;
+    font-size: 20px;
+    font-weight: 500;
+    padding-top: 0.5rem;
+}
+
+.damage-n {
+    text-transform: uppercase;
+    font-size: 20px;
+    font-weight: 500;
+    padding-top: 0.5rem;
+}
+
+.hammer-n {
+    text-transform: uppercase;
+    font-size: 20px;
+    font-weight: 500;
+    padding-top: 0.5rem
+}
+
+.solar-n {
+    text-transform: uppercase;
+    font-size: 20px;
+    font-weight: 500;
+    padding-top: 0.5rem;
+}
+
+.r-cmnt {
+    padding-top: 0.5rem;
+    padding-bottom: 0.5rem;
+    color: #4f4c4c;
+    font-size: 24px;
+}
+
+/* service css end */
+
+
+/* about css start */
+
+#about {
+    margin-top: 4rem;
+    padding-bottom: 4rem;
+}
+
+.img-about {
+    width: 95%;
+}
+
+.text-about {
+    padding-top: 3rem;
+    padding-bottom: 3rem;
+    padding-left: 1.5rem;
+}
+
+.who-head {
+    text-transform: uppercase;
+    font-size: 20px;
+    font-weight: 200;
+    font-style: italic;
+    letter-spacing: 5px;
+    padding-bottom: 1rem;
+    color: #5c5a5ac3;
+}
+
+.best-head {
+    text-transform: uppercase;
+    font-size: 50px;
+    font-weight: 900;
+    padding-bottom: 1rem;
+}
+
+.sagittis-cmnt {
+    font-size: 20px;
+    color: #4f4c4c;
+    padding-bottom: 1rem;
+}
+
+
+/* about css end */
+
+
+/* project css start */
+
+#project {
+    background: rgb(231, 59, 59);
+    margin-top: 1rem;
+    margin-bottom: 3rem;
+}
+
+.pro-head {
+    padding-top: 5rem;
+    padding-bottom: 3rem;
+}
+
+.work {
+    text-align: center;
+    text-transform: uppercase;
+    font-style: italic;
+    color: #fff;
+    font-weight: 100;
+    letter-spacing: 5px;
+    font-size: 20px;
+    padding-bottom: 0.5rem;
+}
+
+
+.latest-p {
+    text-align: center;
+    text-transform: uppercase;
+    color: #fff;
+    font-weight: bold;
+    font-size: 55px;
+    padding-bottom: 2rem;
+}
+
+.p-btn {
+    text-align: center;
+}
+
+
+.pro-btn {
+    text-transform: uppercase;
+    font-weight: 100;
+    background: rgb(231, 59, 59);
+    color: #fff;
+    border: solid 1px #fff;
+    margin-right: 0.5rem;
+    transition: 0.2s;
+}
+
+
+
+.pro-btn:hover {
+    background: #fff;
+    color: #171515;
+}
+
+
+/* project css end */
+
+
+/* process css start */
+
+#process {
+    margin-top: 5rem;
+    margin-bottom: 3rem;
+    padding-top: 4rem;
+    margin-left: 3rem;
+}
+
+
+.process-item {
+    border: solid 1px rgba(214, 17, 17, 0.34);
+    text-align: center;
+    text-transform: uppercase;
+    padding-top: 0.5rem;
+    padding-bottom: 0.5rem;
+    padding-left: 1rem;
+    padding-right: 1rem;
+}
+
+
+.process-icon {
+    text-align: center;
+    font-size: 100px;
+    padding-bottom: 1.5rem;
+    color: brown;
+}
+
+/* process css end */
+
+
+/* blog css start */
+
+
+#blog {
+    margin-top: 6rem;
+    margin-bottom: 6rem;
+    padding-top: 3rem;
+}
+
+.our-head {
+    text-transform: uppercase;
+    letter-spacing: 5px;
+    font-weight: 200;
+    font-style: italic;
+    padding-bottom: 0.5rem;
+}
+
+.latest-head {
+    text-transform: uppercase;
+    font-weight: bold;
+    font-size: 45px;
+}
+
+.btn-blog {
+    text-transform: uppercase;
+    border: solid 1px brown;
+    background: #fff;
+    font-size: 20px;
+    margin-top: 1rem;
+    transition: 0.3s;
+    padding-left: 1.5rem;
+    padding-right: 1.5rem;
+    padding-top: 0.5rem;
+    padding-bottom: 0.5rem;
+}
+
+.btn-blog:hover {
+    background: brown;
+    color: #fff;
+}
+
+.post-h {
+    text-transform: uppercase;
+    font-weight: 200;
+    font-style: italic;
+    letter-spacing: 3px;
+    padding-top: 1rem;
+}
+
+.how-head {
+    text-transform: uppercase;
+    font-size: 20px;
+    font-weight: bold;
+    padding-top: 0.5rem;
+}
+
+.best-h {
+    text-transform: uppercase;
+    font-size: 20px;
+    font-weight: bold;
+    padding-top: 0.5rem;
+}
+
+.for-head {
+    text-transform: uppercase;
+    font-size: 20px;
+    font-weight: bold;
+    padding-top: 0.5rem;
+}
+
+.vitae-cmnt {
+    font-weight: 300;
+    font-size: 15px;
+    padding-top: 0.5rem;
+    color: #1a1717f0;
+}
+
+.blog-btn {
+    text-transform: uppercase;
+    border: solid 1px brown;
+    background: #fff;
+    font-size: 20px;
+    margin-top: 1rem;
+    transition: 0.3s;
+    padding-left: 2rem;
+    padding-right: 2rem;
+    padding-top: 0.5rem;
+    padding-bottom: 0.5rem;
+}
+
+.blog-btn:hover {
+    background: brown;
+    color: #fff;
+}
+
+/* blog css end */
+
+
+/* get css start */
+#get-done {
+    background: brown;
+    margin-top: 5rem;
+    margin-bottom: 4rem;
+    padding-top: 6rem;
+    padding-bottom: 6rem;
+}
+
+.get-sub {
+    padding-left: 8rem;
+}
+
+.get-head {
+    text-transform: uppercase;
+    font-weight: 300;
+    font-style: italic;
+    letter-spacing: 3px;
+    color: #fff;
+    padding-top: 1rem;
+}
+
+.get-sub-head {
+    text-transform: uppercase;
+    font-weight: bold;
+    font-size: 40px;
+    padding-top: 0.5rem;
+    color: #fff;
+}
+
+.get-sub-btn {
+    padding-left: 6rem;
+    padding-top: 4rem;
+}
+
+button.get-btn {
+    text-transform: uppercase;
+    font-size: 20px;
+    font-weight: bold;
+    border: solid 25px #FFF;
+    padding-top: 1rem;
+    padding-bottom: 1rem;
+    padding-left: 0.5rem;
+    padding-right: 0.5rem;
+}
+
+/* get css end */
+
+/* footer css start */
+
+#footer {
+    margin-top: 6rem;
+    margin-bottom: 3rem;
+    padding-top: 4rem;
+}
+
+.footer-top{
+    margin-bottom: 4rem;
+}
+
+.f-m-logo {
+    width: 40%;
+    padding-bottom: 1rem;
+}
+
+.f-elit {
+    color: #4c4949be;
+    font-size: 18px;
+}
+
+.foot-icon {
+    font-size: 25px;
+    padding-right: 1rem;
+    color: #c17373;
+    transition: 0.4s;
+}
+
+.foot-icon:hover {
+    color: brown;
+}
+
+.service-footer {
+    margin-left: 2rem;
+}
+
+.our-head-f {
+    text-transform: uppercase;
+    font-size: 20px;
+    font-weight: 700;
+    text-align: center;
+    padding-left: 10px;
+}
+
+.footer-m {
+    list-style: none;
+    padding-top: 0.5rem;
+    margin: 0;
+}
+
+.footer-item {
+    padding-top: 1rem;
+}
+
+a.footer-link {
+    text-decoration: none;
+    color: black;
+    padding-top: 1rem;
+
+}
+
+.contact-footer{
+    margin-left: 3rem;
+}
+
+.con-foot {
+    text-transform: uppercase;
+    font-size: 20px;
+    font-weight: bold;
+    padding-bottom: 0.5rem;
+}
+
+.footer-icon{
+    font-size: 30px;
+    padding-right: 0.5rem;
+}
+
+.loc {
+    padding-top: 0.5rem;
+}
+
+.f-loc-head {
+    font-size: 16px;
+    padding-top: 0.7rem;
+}
+
+.phne {
+    padding-top: 0.5rem;
+}
+
+.f-phn-head {
+    font-size: 20px;
+    font-weight: 400;
+    padding-top: 0.6rem;
+    padding-left: 0.3rem;
+}
+
+
+.mail {
+    padding-top: 0.5rem;
+}
+
+.f-mali-head {
+    font-size: 18px;
+    font-weight: 400;
+    padding-top: 0.7rem;
+    padding-left: 0.2rem;
+}
+
+
+.footer-bottom{
+    padding-top: 1rem;
+    padding-bottom: 0px;
+}
+
+/* footer- bottom */
+
+
+.f-bottom-head {
+    text-align: center;
+    text-transform: uppercase;
+    font-weight: 400;
+    padding-bottom: 0.7rem;
+}
+
+.institute-name {
+    text-align: center;
+    text-transform: uppercase;
+    font-size: 18px;
+    font-weight: 400;
+    padding-bottom: 0.3rem;
+}
+
+.department {
+    text-align: center;
+    text-transform: uppercase;
+    font-size: 16px;
+    font-weight: 400;
+}
+
+.my-info {
+    text-align: center;
+}
+
+.my-img {
+    width: 30%;
+    padding-bottom: 0.5rem;
+}
+
+.my-name {
+    text-transform: uppercase;
+    font-size: 20px;
+    font-weight: 400;
+}
+
+
+.iat-f-head {
+    text-align: center;
+    text-transform: uppercase;
+    font-size: 21px;
+    font-weight: 400;
+    padding-bottom: 0.5rem;
+}
+
+.it-name {
+    text-align: center;
+    font-size: 28px;
+    font-weight: 300;
+    padding-bottom: 0.3rem;
+}
+
+.it-loc-f {
+    text-align: center;
+    font-size: 15px;
+    font-weight: 300;
+}
+
+
+/* footer-bottom */
+
+/* footer css end */
